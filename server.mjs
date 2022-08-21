@@ -6,7 +6,7 @@ import mongoose from 'mongoose';
 
 
 ////////////////////////////////////////////////////////////////
-let dbURI = "mongodb+srv://Aqsafaisal34:Sodiumchloride34@cluster0.0y2hrol.mongodb.net/socialMediaBase?retryWrites=true&w=majority";
+let dbURI = "mongodb+srv://Aqsafaisal34:abc123456@cluster0.0y2hrol.mongodb.net/socialMediaBase?retryWrites=true&w=majority";
 mongoose.connect(dbURI);
 
 
